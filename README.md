@@ -4,3 +4,4 @@ Just Another repository
 
 * レポジトリ
 * イシュー
+* コミット
